@@ -1,0 +1,55 @@
+body {
+    font-size: 2em !important;
+    background-color: #40739e !important;
+    color:white !important;
+}
+
+.centered {
+  cursor: pointer;  
+}
+
+.align {
+    margin-left: 0  !important;
+    margin-right: 0  !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+#sorry {
+font-size: 1.7em !important;   
+}
+
+#unansweredSpan {
+font-size: 1.5em !important;   
+color: #f1c40f;   
+}
+
+#correctSpan {
+font-size: 1.5em !important;   
+color: #2ecc71;   
+}
+
+#incorrectSpan {
+font-size: 1.5em !important;   
+color: #e74c3c;   
+}
+
+#timer {
+    color: #f8c291 !important;
+    font-size: 2em !important;
+}
+
+.decoration {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    background-color: #57606f !important;
+    height: 650px !important;
+    border-radius: 20px;
+}
+
+#answersArea {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 400px !important;
+}
